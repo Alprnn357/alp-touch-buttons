@@ -7,5 +7,5 @@ These are simple buttons that colored with white. It also helps you for see the 
 - Launch the game and set the button textures.
 - Thats it, Enjoy!
 # Links
-- Video preview: [YouTube]()
+- Video preview: [YouTube](https://youtu.be/EjwLQ9vOaDw)
 - Downloads: [Releases](https://github.com/Alprnn357/alp-touch-buttons/releases)
